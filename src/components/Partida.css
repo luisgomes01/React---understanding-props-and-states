@@ -1,0 +1,12 @@
+.partida {
+    border: 1px solid #D1D1D2;
+    border-radius: 2%;
+    width: 10rem;
+    font-size: 12px;
+    text-align: center;
+    margin: 0px 0px;
+}
+
+.data {
+    font-weight: 100;
+}
